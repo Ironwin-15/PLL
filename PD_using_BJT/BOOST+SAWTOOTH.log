@@ -1,0 +1,19 @@
+LTspice 24.1.5 for Windows
+Circuit: C:\Users\IK\Desktop\SURGE\WRITING\PD_using_BJT\BOOST+SAWTOOTH.net
+Start Time: Mon Jun 22 04:33:45 2026
+solver = Normal
+Maximum thread count: 8
+tnom = 27
+temp = 27
+method = trap
+Direct Newton iteration for .op point succeeded.
+
+Simulation stopped by user.
+Total elapsed time: 7.079 seconds.
+
+Files loaded:
+C:\Users\IK\Desktop\SURGE\WRITING\PD_using_BJT\BOOST+SAWTOOTH.net
+C:\Users\IK\AppData\Local\LTspice\lib\cmp\standard.dio
+C:\Users\IK\AppData\Local\LTspice\lib\cmp\standard.bjt
+C:\Users\IK\AppData\Local\LTspice\lib\sub\UniversalOpAmp2.lib
+
